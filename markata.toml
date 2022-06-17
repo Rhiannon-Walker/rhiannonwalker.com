@@ -1,0 +1,4 @@
+[markata]
+glob_patterns = "**/*.md"
+[markata.feeds.all-posts]
+filter="published==True"
